@@ -1,0 +1,14 @@
+fd1594c8eff55f7a15a5ab03fedd1b80 *DESCRIPTION
+f8b2a6663b4a79d1906dad73b9addd16 *NAMESPACE
+6ebb0955a602ef6601f5aa9365d0497c *R/Data_generation.R
+fcfb43fb7b71768cbb5c649a42d651a4 *R/Indexes.R
+2f1bca0a238ac6dcf6b86fd645b125c8 *R/Method_function.R
+fabdf072e31a1373f715d36692231fce *R/Parameters_Selection.R
+03512a67a8445d73fdc7894a722d959b *man/BIC_PFP.Rd
+3d3333eaa8304d3d9181e13b82b0cbff *man/BIC_SILFS.Rd
+de6b16fb755d6ceabeca7f2c145dcc3e *man/DCADMM_iter_l1.Rd
+7cac289cfe3f43482b07320e44044a64 *man/DCADMM_iter_l2.Rd
+08d0cd8b30e48dbba9c6dc760601009d *man/FA_PFP.Rd
+6fd97ab4531d62a926eda160e50903a2 *man/INIT.Rd
+4335418781b9e6cea526bf7de81faa7d *man/SCAR.Rd
+f72605e432598f3941c0fc822737d4a7 *man/SILFS.Rd
